@@ -1,4 +1,4 @@
 # git_test
 Odin test Git
 
-Este es el primer proyecto de Juan 'Mertesacccchhheeeerrrr'
+Esto es una prueba y un primer proyecto de Juan
